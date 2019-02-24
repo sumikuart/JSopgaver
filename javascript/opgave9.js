@@ -2,6 +2,10 @@ window.onload = function () {
 
 
 
+   document.getElementById("alertclick").addEventListener("click", function (event) {
+        event.preventDefault();
+        alertfunction();
+    });
 
     document.getElementById("alertclick").addEventListener("click", function (event) {
         event.preventDefault();

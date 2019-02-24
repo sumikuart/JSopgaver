@@ -31,7 +31,7 @@ dagenavne[1] = "mandag";
 dagenavne[2] = "tirsdag";
 dagenavne[3] = "onsdag";
 dagenavne[4] = "torsdag";
-dagenavne[5] = "fradag";
+dagenavne[5] = "fredag";
 dagenavne[6] = "lørdag";
 
 

@@ -156,13 +156,14 @@ hr {
     position: relative;
     width: 500px;
     height: 300px;
-    background-color: #F0F0F0;
+    background-color: rgb(75, 4, 4);
 }
 
 #pacman {
     position: absolute;
     top: 50px;
     left: 50px;
+
 }
 
 

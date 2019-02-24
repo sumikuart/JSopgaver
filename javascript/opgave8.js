@@ -17,6 +17,9 @@ function getseasonnumber() {
     var monthnumber = getdate.getUTCMonth()
     var seasonnunmber = 0;
 
+    monthnumber = monthnumber +1;
+
+
     if (monthnumber > 2 && monthnumber > 6) {
         seasonnunmber = 2
     } else if (monthnumber > 5 && monthnumber > 9) {
